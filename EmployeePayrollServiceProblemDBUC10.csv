@@ -1,0 +1,6 @@
+id,name,gender,salary,start_date,phone,address,department,basic_pay,deductions,taxable_pay,income_tax,net_pay
+4,bill,M,100000,2010-05-02,123-456-7890,"123 Main St, Anytown USA",Sales,10000.00,2000.00,75000.00,1000.00,20000.00
+6,Kavya,F,500000,2016-05-02,123-456-7890,"123 Main St, Anytown USA",Sales,40000.00,5000.00,35000.00,5000.00,30000.00
+10,"Bob Johnson",M,4500,2022-03-01,123-456-7890,"123 Main St, Anytown USA",Sales,10000.00,2000.00,75000.00,1000.00,20000.00
+11,Terisaa,M,50000,2022-01-01,123-456-7890,"123 Main St, Anytown USA","Sales and Marketing",40000.00,5000.00,35000.00,5000.00,30000.00
+12,Terisaa,F,100000,2020-01-01,123-456-7890,"123 Main St, Anytown USA","Sales and Marketing",10000.00,2000.00,55000.00,1000.00,20000.00
