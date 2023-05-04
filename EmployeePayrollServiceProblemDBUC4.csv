@@ -1,0 +1,9 @@
+id,name,gender,salary,start_date
+3,Kaynat,M,20000,2020-01-05
+4,bill,F,100000,2010-05-02
+5,roshan,M,300000,2015-05-02
+6,Kavya,F,500000,2016-05-02
+7,Ajay,M,800000,2018-05-02
+8,"John Doe",NULL,5000,2022-01-01
+9,"Jane Smith",NULL,6000,2022-02-15
+10,"Bob Johnson",NULL,4500,2022-03-01
