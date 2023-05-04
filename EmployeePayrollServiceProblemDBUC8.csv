@@ -1,0 +1,9 @@
+id,name,gender,salary,start_date,phone,address,department
+3,Kaynat,M,20000,2020-01-05,NULL,N/A,
+4,bill,M,100000,2010-05-02,123-456-7890,"123 Main St, Anytown USA",Sales
+5,roshan,M,300000,2015-05-02,NULL,N/A,
+6,Kavya,F,500000,2016-05-02,NULL,N/A,
+7,Ajay,M,800000,2018-05-02,NULL,N/A,
+8,"John Doe",M,5000,2022-01-01,123-456-7890,"123 Main St, Anytown USA",Sales
+9,"Jane Smith",M,6000,2022-02-15,123-456-7890,"123 Main St, Anytown USA",Sales
+10,"Bob Johnson",M,4500,2022-03-01,123-456-7890,"123 Main St, Anytown USA",Sales
